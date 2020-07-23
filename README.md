@@ -4,7 +4,7 @@
 
 One hand typing method using layer and simultaneous keying.
 
-![onehand keyboard](https://github.com/bottilabo/bottilabo_onehand_keyboard/blob/onehand-keyboard.png)
+![onehand keyboard](https://github.com/bottilabo/bottilabo_onehand_keyboard/raw/master/onehand-keyboard.png)
 
 # LAYER key
 
